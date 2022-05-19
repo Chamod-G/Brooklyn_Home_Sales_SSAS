@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>DS_Brooklyn_Home_Sales_DW</Id>
+            <Name>DS_Brooklyn_Home_Sales_DW</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADylQOmkuXk6e5D725KAx9gAAAAA0AAAARABTAF8AQgByAG8AbwBrAGwAeQBuAF8ASABvAG0AZQBfAFMAYQBsAGUAcwBfAEQAVwAAABBmAAAAAQAAIAAAAIEgFkDgBvPd759uiKSm1aZBnVu14oPx014Um3xSyINJAAAAAA6AAAAAAgAAIAAAAOOsJg8mCeJLO1HCaq9N0Lk26sJzTuqPSh0XvQUvWhMCEAAAAMza8FQt4N83rNPVL5zW/chAAAAAOnGX2DgOZFXxxqHcLz0jDwePVfh9pCpW9GepqRRAXIMtAonr7maRTi83nzS6nCHFOspA4N89H0D39nlIp7dPdw==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>DS_Brooklyn_Home_Sales_DW</Id>
+            <Name>DS_Brooklyn_Home_Sales_DW</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADylQOmkuXk6e5D725KAx9gAAAAA0AAAARABTAF8AQgByAG8AbwBrAGwAeQBuAF8ASABvAG0AZQBfAFMAYQBsAGUAcwBfAEQAVwAAABBmAAAAAQAAIAAAADXglRm3BfIto70rQtZ+fHv5WobkXaluOewZRfcoRameAAAAAA6AAAAAAgAAIAAAAETg4SzumvRQxL3ULXegOfe4KZhgrXFHeWJTC/cTrNN5IAAAANuHKIJJ9WW0JKiVZ5NU9ZfSGmB/GdPsixbCBTKS9Eh/QAAAAFNZs0+IbrKNANfsrc6RaMEM30+UCEj7Xoes0ABfJQd2E8ld/PITJcfsL5uAx+I0FQPxMjHlFSTbQEJLNLoy5T0=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>localhost</TargetServer>
+        <TargetDatabase>Brooklyn_Home_Sales_SSAS</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
